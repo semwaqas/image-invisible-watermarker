@@ -1,4 +1,3 @@
-```markdown
 # Image Watermarker
 
 [![PyPI version](https://badge.fury.io/py/image-watermarker.svg)](https://badge.fury.io/py/image-watermarker)
@@ -128,5 +127,4 @@ Contributions are welcome!  If you find a bug or have a feature request, please 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. (You'll need to create a LICENSE file and put the MIT license text in it.)
-```
+This project is licensed under the Creative Commons Attribution-NoDerivatives (CC BY-ND) License
