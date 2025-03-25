@@ -19,7 +19,7 @@ A Python package for embedding and extracting watermarks in various image format
 ## Installation
 
 ```bash
-pip install image-watermarker
+pip install image-invisible-watermarker
 ```
 
 ## Usage
