@@ -14,8 +14,8 @@ name = "Muhammad Ateeq"
 email = "mr.ateeqazam@gmail.com"
 
 ["project.urls"]
-Homepage = "https://github.com/yourusername/image_watermarker"
-Documentation = "https://image_watermarker.readthedocs.io/"
+Homepage = "https://github.com/semwaqas/image-invisible-watermarker"
+Documentation = "https://github.com/semwaqas/image-invisible-watermarker/blob/main/README.md"
 
 ["tool.setuptools.packages.find"]
 where = [ ".",]
