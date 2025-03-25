@@ -1,6 +1,6 @@
 # Image Watermarker
 
-[![PyPI version](https://badge.fury.io/py/image-watermarker.svg)](https://badge.fury.io/py/image-watermarker)
+[![PyPI version](https://badge.fury.io/py/image-invisible-watermarker.svg)](https://badge.fury.io/py/image-invisible-watermarker)
 
 A Python package for embedding and extracting watermarks in various image formats (PNG, JPEG, WebP, AVIF, HEIC/HEIF).  It provides a simple and flexible way to protect your images by adding hidden or invisible watermarks.
 
